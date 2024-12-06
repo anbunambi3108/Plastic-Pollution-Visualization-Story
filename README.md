@@ -1,8 +1,2 @@
 # The Journey of Plastic: From Production to Ocean Pollution
-This project visualizes the alarming rise of plastic pollution in rivers and oceans, using data from 2019. The visualizations cover key aspects of the issue, including:
-- The dramatic increase in global plastic production from 1950 to 2019.
-- The significant mismanagement of plastic waste, with much ending up in rivers and oceans.
-- The major rivers, like the Pasig and Ulhas, that contribute most of the plastic waste entering marine environments.
-- The distribution of plastic waste types, such as bags, bottles, and food containers, in water bodies.
-
-These charts and maps highlight the urgent need for effective waste management and environmental protection to mitigate the growing impact of plastic pollution on our ecosystems.
+Since 1950, global plastic production has skyrocketed from just 2 million tons to nearly 460 million tons by 2019, primarily driven by industries such as packaging, and this dramatic increase in production has resulted in a significant rise in plastic waste entering our environment, with rivers transporting millions of tons of mismanaged plastic waste into the oceans, and rivers like the Pasig and the Ulhas are major contributors to ocean plastic pollution, making them critical areas of environmental concern, as the plastic waste carried by these rivers directly threatens marine biodiversity, with many marine animals, including sea turtles, whales, and seabirds, ingesting plastics or becoming entangled in them, causing severe harm to ecosystems and disrupting marine food chains.
