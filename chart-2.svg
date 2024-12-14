@@ -1,0 +1,61 @@
+<svg height="350" width="600" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 12/14/2024, 4:52:59 PM -->
+<g transform="translate(157.275,18)">
+<g id="sankey_flows">
+<path id="flow4" d="M212.09167 96.1212C247.07275 96.1212 253.15642 86.9748 288.1375 86.9748" fill="none" stroke-width="173.9496" stroke="#00b4d8" opacity="0.5"><title>Transported  to ocean → Plastics floating near   shoreline 88%: 88</title></path>
+<path id="flow0" d="M20 91.3344C54.98108 91.3344 61.06475 81.0447 96.04583 81.0447" fill="none" stroke-width="162.0894" stroke="#00b4d8" opacity="0.5"><title>Leakage of plastic waste   into aquatic environments → Rivers  82%: 82</title></path>
+<path id="flow2" d="M116.04583 81.0447C151.02692 81.0447 157.11058 90.1911 192.09167 90.1911" fill="none" stroke-width="162.0894" stroke="#00b4d8" opacity="0.5"><title>Rivers  82% → Transported  to ocean: 82</title></path>
+<path id="flow1" d="M20 190.1694C54.98108 190.1694 61.06475 237.0447 96.04583 237.0447" fill="none" stroke-width="35.5806" stroke="#00b4d8" opacity="0.5"><title>Leakage of plastic waste   into aquatic environments → Coast  18%: 18</title></path>
+<path id="flow3" d="M116.04583 237.0447C151.02692 237.0447 157.11058 189.0261 192.09167 189.0261" fill="none" stroke-width="35.5806" stroke="#00b4d8" opacity="0.5"><title>Coast  18% → Transported  to ocean: 18</title></path>
+<path id="flow5" d="M212.09167 192.9795C247.07275 192.9795 253.15642 240.9981 288.1375 240.9981" fill="none" stroke-width="19.767" stroke="#00b4d8" opacity="0.5"><title>Transported  to ocean → Plastics sinking into   seabeds 10%: 10</title></path>
+<path id="flow6" d="M212.09167 204.8397C247.07275 204.8397 253.15642 310.0233 288.1375 310.0233" fill="none" stroke-width="3.9534" stroke="#00b4d8" opacity="0.5"><title>Transported  to ocean → Transports to   offshore surface 2%: 2</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="10.2897" height="197.67" width="20" fill="#00b4d8" fill-opacity="1"><title>Leakage of plastic waste   into aquatic environments:
+100</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="96.04583" y="0" height="162.0894" width="20" fill="#00b4d8" fill-opacity="1"><title>Rivers  82%:
+82</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="96.04583" y="219.2544" height="35.5806" width="20" fill="#00b4d8" fill-opacity="1"><title>Coast  18%:
+18</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="192.09167" y="9.1464" height="197.67" width="20" fill="#00b4d8" fill-opacity="1"><title>Transported  to ocean:
+100</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="288.1375" y="0" height="173.9496" width="20" fill="#00b4d8" fill-opacity="1"><title>Plastics floating near   shoreline 88%:
+88</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="288.1375" y="231.1146" height="19.767" width="20" fill="#00b4d8" fill-opacity="1"><title>Plastics sinking into   seabeds 10%:
+10</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="288.1375" y="308.0466" height="3.9534" width="20" fill="#00b4d8" fill-opacity="1"><title>Transports to   offshore surface 2%:
+2</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
+<text text-anchor="middle" x="142.725" y="327" font-size="12px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-145.27501" y="91.42471" width="144.05" height="35.13334" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-4.725" y="109.1247" font-weight="400" font-size="12px" dy="-4.83333">Leakage of plastic waste <tspan x="-4.725" dy="17.4" font-weight="400" font-size="12px"> into aquatic environments</tspan></text>
+<rect id="label1_bg" class="for_r1" x="85.54062" y="63.34471" width="41.31042" height="35.13333" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="106.04583" y="81.0447" font-weight="400" font-size="12px" dy="-4.83333">Rivers<tspan x="106.04583" dy="17.4" font-weight="400" font-size="12px"> 82%</tspan></text>
+<rect id="label2_bg" class="for_r2" x="86.86874" y="219.34471" width="39.31367" height="35.13332" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="middle" x="106.04583" y="237.0447" font-weight="400" font-size="12px" dy="-4.83333">Coast<tspan x="106.04583" dy="17.4" font-weight="400" font-size="12px"> 18%</tspan></text>
+<rect id="label3_bg" class="for_r3" x="166.46147" y="90.28141" width="71.56042" height="35.13334" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="middle" x="202.09167" y="107.9814" font-weight="400" font-size="12px" dy="-4.83333">Transported<tspan x="202.09167" dy="17.4" font-weight="400" font-size="12px"> to ocean</tspan></text>
+<rect id="label4_bg" class="for_r4" x="309.36249" y="69.27481" width="121.3625" height="35.13334" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="312.8625" y="86.9748" font-weight="400" font-size="12px" dy="-4.83333">Plastics floating near <tspan x="312.8625" dy="17.4" font-weight="400" font-size="12px"> shoreline 88%</tspan></text>
+<rect id="label5_bg" class="for_r5" x="309.36249" y="223.29809" width="115.35206" height="35.13335" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="312.8625" y="240.9981" font-weight="400" font-size="12px" dy="-4.83333">Plastics sinking into <tspan x="312.8625" dy="17.4" font-weight="400" font-size="12px"> seabeds 10%</tspan></text>
+<rect id="label6_bg" class="for_r6" x="309.36249" y="292.32328" width="113.81041" height="35.13334" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="312.8625" y="310.0233" font-weight="400" font-size="12px" dy="-4.83333">Transports to <tspan x="312.8625" dy="17.4" font-weight="400" font-size="12px"> offshore surface 2%</tspan></text>
+</g>
+</g></svg>
