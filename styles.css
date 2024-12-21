@@ -80,7 +80,7 @@ iframe {
   height: 350px;
   }
 
-@media screen and (max-width: 100%) {
+@media screen and (max-width: 768px) {
   .responsive-iframe {
     height: 490px;
       }
